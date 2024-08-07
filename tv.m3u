@@ -428,3 +428,10 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61
 https://content.uplynk.com/channel/b468fd41b60840579668c42c096a4103.m3u8
 #EXTINF:-1 tvg-id="VoyagerDocumentaries.us" tvg-logo="https://i.imgur.com/bbqk8XO.png" group-title="Documentary",Voyager Documentaries
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/589aa03df9ba56a84197a560/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d1024-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e7ab6188-0ea8-4038-b8e2-2865d3dcabd9
+
+#EXTINF:-1 tvg-id="AMP2.us" tvg-logo="https://i.imgur.com/nfur3FR.png" group-title="Culture",Access Media Productions Community Channel (720p)
+https://livestream.telvue.com/ampmedia2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="FoxSoul.us" tvg-logo="https://i.imgur.com/YIamDGn.png" group-title="Culture",Fox Soul (1080p)
+https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="KDOCDT7.us" tvg-logo="https://i.imgur.com/XyhgeKL.png" group-title="Culture",Little Saigon TV (720p)
+https://media.streambrothers.com:1936/8228/8228/playlist.m3u8
