@@ -861,3 +861,23 @@ http://ott-cdn.ucom.am/s22/index.m3u8
 #EXTINF:-1 tvg-id="ArmeniaSinemaks.am" tvg-logo="https://i.imgur.com/removed.png" group-title="Movies" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",ՍԻՆԵՄԱՆ [U6] (480p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s66/index.m3u8
+
+
+#EXTINF:-1,cartoon network 4k cc 
+https://tgaadi-web.tech/stalker/Jio-be.php?tv=1106
+#EXTINF:-1,boomerang 4k 
+https://tgaadi-web.tech/stalker/Jio-be.php?tv=1125
+#EXTINF:-1,disnet channel 4k 
+https://tgaadi-web.tech/stalker/Jio-be.php?tv=1105
+#EXTINF:-1,disney insternational
+https://tgaadi-web.tech/stalker/Jio-be.php?tv=1110
+#EXTINF:-1,nickolodeon 4k
+https://tgaadi-web.tech/stalker/Jio-be.php?tv=8032
+#EXTINF:-1,Filipino TV
+https://tgaadi-web.tech/stalker/Jio-be.php?tv=1569
+#EXTINF:-1,disney+ 1
+http://tecnozone.site:8880/CrisMoyano/CristianMo/95
+#EXTINF:-1,Disney Channel HD
+http://tecnozone.site:8090/FELIPEmendez2020/FELIPE2020/131
+#EXTINF:-1,??
+https://ythls.armelin.one/channel/UC1f5yN0Hdibzm3JqqUswKvA.m3u8
