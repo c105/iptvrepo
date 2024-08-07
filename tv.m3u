@@ -113,7 +113,8 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs21
 #EXTINF:-1 tvg-id="MoviePlus.jp",Movie Plus (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14
-#EXTINF:-1 tvg-id="MTV.jp",MTV Japan (544p)
+
+#EXTINF:-1 TVG-EPGURL="tvguide.myjcom.jp" tvg=url=https://www.mtvjapan.com/" TVG-LANGUAGE="japanese" tvg-id="MTV.jp",MTV Japan (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
 #EXTINF:-1 tvg-id="MusicJapanTV.jp",Music Japan TV (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06
