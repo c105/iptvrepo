@@ -1,5 +1,4 @@
 #EXTM3U
-#EXTM3U
 #EXTINF:-1 tvg-id="CinemaOne.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/512px-Cinema_One_2013_logo.svg.png" group-title="Movies",Cinema One (1080p)
 https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
 #EXTINF:-1 tvg-id="CLTV36.ph" tvg-logo="https://i.imgur.com/IUcTFQ2.png" group-title="General",CLTV 36 (1080p) [Not 24/7]
@@ -7,7 +6,18 @@ https://live.cltv36.tv:5443/LiveApp/streams/live.m3u8
 #EXTINF:-1 tvg-id="INCTV.ph" tvg-shift="0" tvg-logo="https://i.imgur.com/JGSLqA6.png" group-title="Undefined",INC TV (720p) (720p) [Geo-blocked]
 https://199211.global.ssl.fastly.net/643cc12aa824db4374021c8c/live_95f6ac80dd6511ed9d08b12be56ae55e/index.m3u8
 #EXTINF:-1 tvg-id="Net25.ph" tvg-logo="https://i.imgur.com/pPPubX5.png" group-title="Undefined",NET 25 (1080p) [Not 24/7]
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1723022495/ei/P-iyZpxYr5XV3w-elYrgBA/ip/172.68.225.190/id/weVRc0vIbtc.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51181297/txs/51181296%2C51181297%2C51181298/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/Mv1m9o8cM1BqewU3H8X8-pMIWGKKH2UTl-qO2vw8c-kaWb2XTU-vGX4C1s0Cc5o/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgF5hM5pQwXtBfi3W93yiGmQeDLcj6QkEjxTpVSCOR1YICIF967WSzCgktiR6lgr73a0derYaA-kMKgfLGJtIzmCy1/file/index.m3u8
 https://ythls.armelin.one/channel/UC5IF8NlxMW1GkEUUqWJJBIw.m3u8
+#EXTINF:-1 tvg-id="TeleRadyo.ph" tvg-logo="https://i.imgur.com/fTYOu5k.png" group-title="Undefined",TeleRadyo (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCs_VNu-FQ0WcJnD4QkmIL5w.m3u8
+#EXTINF:-1 tvg-id="TheFilipinoChannelGuam.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/The_Filipino_Channel_2011_logo.svg/512px-The_Filipino_Channel_2011_logo.svg.png" group-title="Undefined",The Filipino Channel Guam (1080p)
+https://tfcguam-abscbn-ono.amagi.tv/index.m3u8
+#EXTINF:-1 tvg-id="TruthChannel.ph" tvg-logo="https://i.imgur.com/NRuM9Xt.png" group-title="Religious",Truth Channel (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCa3hzYljDByZxkjIMah_2nw.m3u8
+#EXTINF:-1 tvg-id="TVMaria.ph" tvg-logo="https://i.imgur.com/yhIM9yU.png" group-title="Undefined",TV Maria (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCDXPB23ws_T0rVvrXVCYqyA.m3u8
+#EXTINF:-1 tvg-id="UNTV.ph" tvg-logo="https://i.imgur.com/gFcpYSJ.png" group-title="General",UNTV (2160p) [Not 24/7]
+https://ythls.armelin.one/channel/UC3XaG-7UVi2vD8ZZEMNnnpw.m3u8
 #EXTINF:-1 tvg-id="TeleRadyo.ph" tvg-logo="https://i.imgur.com/fTYOu5k.png" group-title="Undefined",TeleRadyo (720p) [Not 24/7]
 https://ythls.armelin.one/channel/UCs_VNu-FQ0WcJnD4QkmIL5w.m3u8
 #EXTINF:-1 tvg-id="TheFilipinoChannelGuam.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/The_Filipino_Channel_2011_logo.svg/512px-The_Filipino_Channel_2011_logo.svg.png" group-title="Undefined",The Filipino Channel Guam (1080p)
