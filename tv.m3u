@@ -1,4 +1,6 @@
-#EXTM3U url-tvg="https://github.com/cen84/iptvrepo/raw/main/epg.xml.gz"
+#EXTM3U url-tvg="https://github.com/cen84/iptvrepo/raw/main/epg.xml.gz" 
+#url-tvg="https://github.com/cen84/iptvrepo/raw/main/epg.xml.gz" https://www.bevy.be/bevyfiles/unitedstatespremium1.xml.gz
+
 #EXTINF:-1 tvg-id="963EasyRock.ph" tvg-logo="https://i.imgur.com/IMFwHbp.png" group-title="Music",96.3 Easy Rock (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCZTlGPEnQ66TFG0m6Wa3KFQ.m3u8
 #EXTINF:-1 tvg-id="ANC.ph" tvg-logo="https://i.imgur.com/odwRbRk.png" group-title="News",ANC (1080p) [Not 24/7]
